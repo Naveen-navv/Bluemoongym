@@ -106,7 +106,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: var(--secondary-color);
+  
 }
 
 .nav__logo a {
